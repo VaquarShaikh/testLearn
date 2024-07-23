@@ -28,5 +28,6 @@ typedef pair<int, int> pii;
 int main() {
   // Hello World
   cout << "Hello world !" << endl;
-  cout<<"sdkjfhskjdfhdksjfh"<<endl;
+  cout << "sdkjfhskjdfhdksjfh" << endl;
+  cout << "Hi Mom!!!" << endl;
 }
