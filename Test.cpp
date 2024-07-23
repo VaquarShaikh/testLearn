@@ -1,6 +1,6 @@
 #include<iostream>
 
-using namespace  std;
+using namespace  s
 
 int main(){
   cout<<"Hello"<<endl;
